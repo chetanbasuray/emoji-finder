@@ -1,8 +1,8 @@
 [build]
   publish = "public"
-  functions = "functions"
+  command = "npm install" # Include npm install and build command
 
 [dev]
-  command = "npm run start"
+  command = "npm run dev"
   targetPort = 3000
   port = 8888
