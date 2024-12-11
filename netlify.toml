@@ -1,0 +1,8 @@
+[build]
+  publish = "public"
+  functions = "functions"
+
+[dev]
+  command = "npm run start"
+  targetPort = 3000
+  port = 8888
