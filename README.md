@@ -33,7 +33,7 @@ This is a simple Node.js application that allows users to search for emojis, dis
 
     ```bash
     git clone https://github.com/yourusername/emoji-finder.git
-    cd your-repo-name
+    cd emoji-finder
     ```
 
 2. **Install dependencies:**
@@ -50,4 +50,4 @@ This is a simple Node.js application that allows users to search for emojis, dis
 
 ## Deployment
 
-**Deployed to Netlify:** [Your Netlify Deployment Link Here](#)
+**Deployed to Netlify:** [Here](https://phenomenal-bavarois-ee041f.netlify.app/)
