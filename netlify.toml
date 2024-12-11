@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "npm install" # Include npm install and build command
+  command = "npm install & npm start" # Include npm install and build command
 
 [dev]
   command = "npm run dev"
